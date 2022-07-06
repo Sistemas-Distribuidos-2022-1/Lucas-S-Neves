@@ -3,7 +3,7 @@ from asyncio.windows_events import NULL
 from base64 import encode
 import socket
 from tokenize import String
-
+#coisa
 def atualiza_mensagem (mensagem) -> String:
     d_mensagem =  mensagem.decode()
     tipo_cliente = d_mensagem[-2:]
