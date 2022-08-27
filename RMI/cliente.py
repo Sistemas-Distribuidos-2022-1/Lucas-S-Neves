@@ -7,3 +7,4 @@ while(True):
 
     message = exerc.saldoMedio(saldoMedio)
     print(message)
+    
